@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bac2026-dRIM.aternos.me ",
+    "ip": "bac2026-dRIM.aternos.me:35014",
     "port": 35014,
     "version": "",
     "try-creative": false
